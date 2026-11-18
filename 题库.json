@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updated": "2026-11-18 19:42:19",
- "count": 3861,
+ "updated": "2026-11-18 19:45:35",
+ "count": 3862,
  "questions": [
   {
    "id": 1,
@@ -87004,6 +87004,33 @@
     {
      "label": "E",
      "text": "A类"
+    }
+   ],
+   "answer": "B",
+   "explanation": "",
+   "source": "手动录入"
+  },
+  {
+   "id": 3862,
+   "category": "单选题",
+   "no": 0,
+   "stem": "违反规定使用明火作业或 者在具有火灾、爆炸危险的场所吸烟, 使用明火，情节严重者处()拘留。",
+   "options": [
+    {
+     "label": "A",
+     "text": "七日以下"
+    },
+    {
+     "label": "B",
+     "text": "五日以下"
+    },
+    {
+     "label": "C",
+     "text": "十日以下"
+    },
+    {
+     "label": "D",
+     "text": "十五日以下"
     }
    ],
    "answer": "B",
