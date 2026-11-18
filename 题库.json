@@ -1,7 +1,7 @@
 {
  "version": 2,
- "updated": "2026-11-18 19:38:58",
- "count": 3860,
+ "updated": "2026-11-18 19:42:19",
+ "count": 3861,
  "questions": [
   {
    "id": 1,
@@ -86976,6 +86976,37 @@
    "stem": "单位的消防安全责任人是 消防工程师()",
    "options": [],
    "answer": "错误",
+   "explanation": "",
+   "source": "手动录入"
+  },
+  {
+   "id": 3861,
+   "category": "单选题",
+   "no": 0,
+   "stem": "火灾的种类按燃烧物的性质划 分，共分为A、B、C、D、E、F六类。由 钾、钠、镁、锂、钛、铝铁合金及禁水物 质引起的火灾，属于( )类火灾。",
+   "options": [
+    {
+     "label": "A",
+     "text": "B类"
+    },
+    {
+     "label": "B",
+     "text": "D类"
+    },
+    {
+     "label": "C",
+     "text": "C类"
+    },
+    {
+     "label": "D",
+     "text": "E类"
+    },
+    {
+     "label": "E",
+     "text": "A类"
+    }
+   ],
+   "answer": "B",
    "explanation": "",
    "source": "手动录入"
   }
